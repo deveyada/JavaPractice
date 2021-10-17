@@ -13,7 +13,7 @@ public class collectionsAL {
 	al.add("Yellow");
 	al.add("Orange");
 	al.add("Red");
-	al.add(7,"VIBGYOR");
+	al.add(7,"VIBGYORA");
 	
 	System.out.println("The contents of arraylist are " + al);
 	System.out.println("The size of the arraylist is " + al.size());
