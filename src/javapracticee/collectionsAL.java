@@ -32,6 +32,7 @@ public class collectionsAL {
 	public static void main(String[]args) {
 		collectionsAL obj = new collectionsAL();
 		obj.arraylist();
+		
 	}
 	
 
