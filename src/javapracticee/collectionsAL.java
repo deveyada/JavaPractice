@@ -27,7 +27,7 @@ public class collectionsAL {
 		System.out.println(al.get(i));
 	}
 	Collections.sort(al);
-	System.out.println("The sorted arraylist looks like "+al);
+	System.out.println("The sorted arraylist now looks like "+al);
 	}
 	public static void main(String[]args) {
 		collectionsAL obj = new collectionsAL();
