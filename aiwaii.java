@@ -7,7 +7,7 @@ public class aiwaii{
 		al.add("is");
 		al.add("all");
 		al.add("about");
-		al.add("practice");
+		al.add("practicetest");
 		System.out.println(al);
 		HashSet<String> ab = new HashSet<String>();
 		ab.add("Java");
